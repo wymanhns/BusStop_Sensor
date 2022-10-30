@@ -1,0 +1,10 @@
+{
+  "domain": "BusStop_Sensor",
+  "name": "Bus Stop Sensor (HK)",
+  "documentation": "https://github.com/wymanhns/busstop_sensor",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "version": "0.1.0"
+}
