@@ -1,7 +1,7 @@
 {
   "domain": "BusStop_Sensor",
   "name": "Bus Stop Sensor (HK)",
-  "documentation": "https://github.com/wymanhns/busstop_sensor",
+  "documentation": "https://github.com/wymanhns/BusStop_Sensor",
   "dependencies": [],
   "codeowners": [],
   "requirements": [],
